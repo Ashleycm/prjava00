@@ -4,6 +4,7 @@ public class prjava00 {
             System.out.println("Hola món");
             System.out.println("Versió 0.1 del projecte prjava00");
             //sadasd
+            //sdsf
         }
     
     }
